@@ -78,3 +78,6 @@ celerybeat-schedule
 
 #Log file
 *.log*
+
+# Project specific
+*.csv
